@@ -1,0 +1,18 @@
+.label {
+  font-size: 30px;
+}
+
+.input {
+  display: block;
+  font-size: 25px;
+  padding: 10px;
+  margin-top: 10px;
+  background: papayawhip;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.input:hover,
+.input:focus {
+  color: black;
+  border: 2px solid blue;
+}
